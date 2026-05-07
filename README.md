@@ -1,2 +1,4 @@
 # ywan0820_9103_tut05
-This is my first local change to the repo!
+# Quiz 8 – Design Research
+
+## Part 1: Imaging Technique Inspiration
